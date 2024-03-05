@@ -74,7 +74,8 @@ function App() {
   }
   function InputCaf(numb){
      setCaf(caffiene+numb);
-     data = createData(caffiene)
+     
+     data = createData(caffiene);
 
 
    }
